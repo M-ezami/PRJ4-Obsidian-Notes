@@ -1,0 +1,32 @@
+#### Note: the weeks before their was not much to reflect to.
+
+
+## Week 4
+- Its good that we prepared the questions before for the canon meeting.
+- I also like that we first made the questions our selves and then meeted to discuss what everyone came up with.
+- I think the python beginner course was also very helpful for my data science skills.
+- The questions: [[Research questions - investigative ability]].
+
+## Week 5
+- we met on Monday and Friday.
+- We planned on Monday whats happening for this week.
+- Discussed  on Friday how the progress went.
+-  I think the two questions I worked myself on this week were nice and i think i made good progress individually but also as group.
+
+## Week 6
+- I think this was an OK week.
+- We didn't do that much except for thinking about the data and discussing it but i think this is important especially at the beginning of an eda.
+- Mainly we discussed what to keep and what not in our data.
+
+## Week 7
+- So this week we met the other groups at canon .
+- We felt that we might be lacking a bit compared to the other groups regarding eda.
+- I think we are on the right path though.
+- It was also interesting to see the printers in action
+- Our work is also going well i think.
+
+## Week 8
+- I think this week we made great progress in understanding the core features of our project.
+- We are feeling confident for our EDA.
+- we just need to figure out how to feed this information for a model what model we use and so on.
+- Additionaly we need to figure out if what we have is enough to create a model did we get the most information out of our eda.
