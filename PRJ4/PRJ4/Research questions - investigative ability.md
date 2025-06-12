@@ -22,4 +22,12 @@ Questions for the canon meeting:
 ## Week 8
 - What of these previous created graphs in the last week are useful for us?
 - If it is filter flow then how can we furthe prove this?
-- 
+
+
+## Week 9 
+- how do we want to implement the fact or feature that there are following errors and that they are different from first errors?
+
+## Week 10
+- Regression vs Classification
+- which model and why?
+
